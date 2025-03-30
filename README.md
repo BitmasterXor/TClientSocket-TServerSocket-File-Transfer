@@ -1,5 +1,7 @@
 # Delphi Socket File Transfer
 
+![Application Preview](Preview.png)
+
 A simple yet robust file transfer application built with Delphi using the WinSock wrapper components TClientSocket and TServerSocket. This application enables bidirectional file transfers between client and server over TCP/IP connections.
 
 ## Features
@@ -82,6 +84,7 @@ The file transfer is implemented using Delphi's stream classes and socket compon
 - **SendBuf/ReceiveBuf**: Transfers raw binary data
 
 ## License
+
 Free and Open Source for use with any project!
 
 ## Acknowledgements
@@ -90,6 +93,7 @@ Free and Open Source for use with any project!
 - Windows Socket API
 
 ## Contributing
+
 Contributions are welcome!
 
 ## Contact
